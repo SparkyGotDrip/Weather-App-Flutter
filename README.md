@@ -1,8 +1,9 @@
 ![weather-iphone-slow-reveal](https://github.com/user-attachments/assets/a9883520-244f-41bb-bc27-59a0d37e49af)
-# weather_app_tutorial
+# Weather_App_Flutter
 A new Flutter project.
 
 ## Getting Started
+To run it, you just have to generate an API key from [OpenWeatherMap](https://openweathermap.org/) by signing up for a free account.
 
 This project is a starting point for a Flutter application.
 
