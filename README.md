@@ -1,6 +1,7 @@
 ![weather-iphone-slow-reveal](https://github.com/user-attachments/assets/a9883520-244f-41bb-bc27-59a0d37e49af)
-# Weather_App_Flutter
-A new Flutter project.
+# Weather-App-Flutter
+
+A remixed, cloned minimal weather app written in Flutter. Originally created by Hussain Mustafa with a video guide that can be found [here](https://www.youtube.com/watch?v=6wTl0yqgBzU&t=1s).
 
 ## Getting Started
 To run it, you just have to generate an API key from [OpenWeatherMap](https://openweathermap.org/) by signing up for a free account.
