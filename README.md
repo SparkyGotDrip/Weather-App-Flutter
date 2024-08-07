@@ -1,5 +1,6 @@
+![weather-iphone-slow-reveal](https://github.com/user-attachments/assets/579cc860-4bb8-4b77-9ba4-44e0c825036f)
+![weather-iphone-slow-reveal](https://github.com/user-attachments/assets/a9883520-244f-41bb-bc27-59a0d37e49af)
 # weather_app_tutorial
-
 A new Flutter project.
 
 ## Getting Started
@@ -14,3 +15,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
