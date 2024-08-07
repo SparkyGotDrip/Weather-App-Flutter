@@ -1,4 +1,3 @@
-![weather-iphone-slow-reveal](https://github.com/user-attachments/assets/579cc860-4bb8-4b77-9ba4-44e0c825036f)
 ![weather-iphone-slow-reveal](https://github.com/user-attachments/assets/a9883520-244f-41bb-bc27-59a0d37e49af)
 # weather_app_tutorial
 A new Flutter project.
